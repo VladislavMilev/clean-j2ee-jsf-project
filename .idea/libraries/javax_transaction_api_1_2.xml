@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javax.transaction-api-1.2" type="TransactionJavaee">
+    <properties version="1.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/transaction/jta/1.1/javax.transaction-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
